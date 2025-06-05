@@ -11,6 +11,6 @@ This is a simple REST API built using Go and Gin. It stores tasks in memory.
 
 ## How to Run
 
-`bash
-cd backend
-go run main.go
+bash
+- cd backend
+- go run main.go
